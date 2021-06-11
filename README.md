@@ -16,4 +16,4 @@ on it.
 
 # Implementations
 
-* https://github.com/tspec/lib-cs
+* [dotnet](https://github.com/tspec/lib-cs)
