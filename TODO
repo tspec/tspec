@@ -1,0 +1,5 @@
+* Language meta / function map:
+Define mapping between strings and functions tied with regexes for example
+
+* Simple grammar constructs i.e. pipes
+Construct sentences using parts of language meta e.g. using special character | or ;
