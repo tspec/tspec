@@ -11,4 +11,10 @@ Construct sentences using parts of language meta e.g. using special character | 
 System & Mechanics
 ------------------
 
-* Using gRPC to split components
+* Using gRPC to split components. Layers:
+  - Spec
+  - Logic
+  - Integration
+  They may live in the same address space in an implementation
+
+* UI: vscode extension tu run specs
